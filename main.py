@@ -37,5 +37,5 @@ def determine_winner(user_choice, computer_choice):
         return "You win!"
     else:
         return "Computer wins!"
-# Play the game
+
 play_game()
